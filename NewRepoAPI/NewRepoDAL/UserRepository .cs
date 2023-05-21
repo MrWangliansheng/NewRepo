@@ -18,6 +18,17 @@ namespace NewRepoDAL
         {
             this.db=db;
         }
+        /// <summary>
+        /// 用户登陆测试
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="pwd"></param>
+        /// <returns></returns>
+        public async Task<User> UserLog(string name, string pwd)
+        {
+            var user = db.Set<User>().Where(m => m.User_Name.Equals(name) & m.User_Password.Equals(pwd)).FirstOrDefaultAsync();
+            return await user;
+        }
 
         public Task Add(User entity)
         {
@@ -42,12 +53,6 @@ namespace NewRepoDAL
         public Task Update(User entity)
         {
             throw new NotImplementedException();
-        }
-
-        public async Task<User> UserLog(string name, string pwd)
-        {
-            var user = db.Set<User>().Where(m => m.User_Name.Equals(name) & m.User_Password.Equals(pwd)).FirstOrDefaultAsync();
-            return await user;
         }
     }
 }

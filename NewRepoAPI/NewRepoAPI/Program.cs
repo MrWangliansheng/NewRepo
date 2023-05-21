@@ -17,6 +17,7 @@ builder.Services.AddSwaggerGen(m =>
 });
 
 builder.Services.AddDbContext<NewRepoDbContext>(m => m.UseSqlServer(builder.Configuration.GetConnectionString("ConStr"), m => m.MigrationsAssembly("NewRepoAPI")));
+//注册泛型接口IRepository<> ,Repository<>泛型接口服务的实现
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 //builder.Services.AddSingleton<IUserDAL>();
 //builder.Services.AddScoped<IRepository<User>>();

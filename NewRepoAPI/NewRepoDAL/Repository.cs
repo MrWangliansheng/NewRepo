@@ -14,6 +14,11 @@ namespace NewRepoDAL
         {
             this.repository = repository;
         }
+        public Task<T> UserLog(string name, string pwd)
+        {
+           var user=repository.UserLog(name, pwd);
+            return user;
+        }
 
         public Task Add(T entity)
         {
@@ -40,10 +45,5 @@ namespace NewRepoDAL
             throw new NotImplementedException();
         }
 
-        public Task<T> UserLog(string name, string pwd)
-        {
-           var user=repository.UserLog(name, pwd);
-            return user;
-        }
     }
 }
