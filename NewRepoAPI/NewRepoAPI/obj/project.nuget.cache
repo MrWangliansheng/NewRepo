@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsK7FKwxIvZA7FPtC2YdjYSWF6Fp8bGbulmnLIxcw9pzo8fICBf7RdH9YUNG3XgnOe9dfMTvHQ7Ne4ah4sIDIQ==",
+  "success": true,
+  "projectFilePath": "D:\\文件\\专高6\\练习\\NewRepo\\NewRepoAPI\\NewRepoAPI\\NewRepoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19911\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\19911\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\19911\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\19911\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\19911\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\19911\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
