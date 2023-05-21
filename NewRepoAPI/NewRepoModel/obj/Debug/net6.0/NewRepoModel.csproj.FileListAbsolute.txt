@@ -1,0 +1,12 @@
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\bin\Debug\net6.0\NewRepoModel.deps.json
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\bin\Debug\net6.0\NewRepoModel.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\bin\Debug\net6.0\NewRepoModel.pdb
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.csproj.AssemblyReference.cache
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.AssemblyInfoInputs.cache
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.AssemblyInfo.cs
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.csproj.CoreCompileInputs.cache
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\refint\NewRepoModel.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\NewRepoModel.pdb
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoModel\obj\Debug\net6.0\ref\NewRepoModel.dll

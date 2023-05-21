@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "INewRepoDAL/1.0.0": {
+        "dependencies": {
+          "NewRepoModel": "1.0.0"
+        },
+        "runtime": {
+          "INewRepoDAL.dll": {}
+        }
+      },
+      "NewRepoModel/1.0.0": {
+        "runtime": {
+          "NewRepoModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INewRepoDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewRepoModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\NewRepoDAL.deps.json
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\NewRepoDAL.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\NewRepoDAL.pdb
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\INewRepoDAL.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\NewRepoModel.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\INewRepoDAL.pdb
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\bin\Debug\net6.0\NewRepoModel.pdb
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.csproj.AssemblyReference.cache
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.AssemblyInfoInputs.cache
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.AssemblyInfo.cs
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.csproj.CoreCompileInputs.cache
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.csproj.CopyComplete
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\refint\NewRepoDAL.dll
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\NewRepoDAL.pdb
+D:\文件\专高6\练习\NewRepo\NewRepoAPI\NewRepoDAL\obj\Debug\net6.0\ref\NewRepoDAL.dll
